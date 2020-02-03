@@ -4,11 +4,17 @@ planning and developing data science courses
 
 ------------------------------------------------------------
 
-What should data scientists be able to do?
+> What should data scientists be able to do?
+
+I broke the skills down into the categories of: analysis, data manipulation, software engineering, and presentation.
+There is some overlap among categories.
 
 ------------------------------------------------------------
 
-#### Analysis
+## Analysis
+
+Data analysis means detecting and inferring patterns in data.
+It is the cornerstone of data science, and also has the greatest overlap with traditional statistics.
 
 Level 1:
 
@@ -19,6 +25,7 @@ Level 1:
 Level 2:
 
 - Apply standard statistical models, such as linear regression
+- Interpret output of models in context of domain
 - Identify outliers
 - Impute or otherwise correctly handle missing data
 - Model non numeric data, including categorical
@@ -26,26 +33,20 @@ Level 2:
 
 Level 3:
 
-- Expert level statistical modeling, such as MCMC
-- Adapt and develop appropriate statistical methodology to the task at hand
+- Select parsimonious models, understand bias-variance tradeoff
+- Expert level statistical modeling, such as MCMC, or neural networks
+- Understand where and how models break down, and how to adapt and modify existing methodology to new situations
+- Develop new methodology to the task at hand
 
 
-#### Presentation
+## Data Manipulation
 
-This category is unique, because all levels of data scientist should be able to __do__ the same things.
-The difference is in how well they do them.
-
-- Write technical reports in standard formats
-- Produce publication quality plots
-- Summarize results for a general audience in brief oral presentations
-- Develop interactive, online dashboards
-
-
-#### Data Manipulation
+Data manipulation is about the mechanics of extracting and processing data in whatever format it happens to be in.
+It includes understanding the organization and structure of the data in both conceptual, and practical terms.
 
 Level 1:
 
-- Load data in common standard formats, such as a CSV file
+- Load and save data in common standard formats, such as a CSV file
 
 Level 2:
 
@@ -56,10 +57,13 @@ Level 2:
 Level 3:
 
 - Select and apply appropriate technologies to process challenging data sets, such as those larger than memory
+- Write clients to dynamically query web API's 
 - Develop new relational schemas
 
 
-#### Software Engineering
+## Software Engineering
+
+Software engineering skills are required to implement models.
 
 Level 1:
 
@@ -84,11 +88,24 @@ Level 3:
 - Read and understand implementation source code, and possibly contribute
 
 
+## Presentation
+
+Data scientists share and present their work, so it can have a broader impact and contribute to the general understanding of the data generating process.
+Presentation as a category is unique, because all levels of data scientist should be able to __do__ the same things.
+The difference is in how well they do them, and what level they are presenting at.
+
+- Write technical reports in standard formats
+- Produce publication quality plots
+- Summarize results for a general or domain audience in brief oral presentations
+- Develop interactive, online dashboards
+
+
+
 
 
 ------------------------------------------------------------
 
-Old material
+Old material, no need to read below here.
 
 #### Basic:
 
