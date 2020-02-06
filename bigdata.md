@@ -14,7 +14,7 @@ Assignments should pose challenging problems on real data sets.
 ## Topics
 
 topic   |   example technologies    |   description
-------- | ----              |   
+------- | ----              |   ----
 databases    | SQL     | Relational databases are the ubiqutious standard for data storage. Students will write SQL queries to filter and join tables in a database.
 streaming data  | bash  | Students will learn to process streams of plain text data using the UNIX pipe model.
 remote computers    | bash, SSH     | Remote computers are necessary to work with data that's too large for a laptop. Students will interactively login and submit batch jobs. 
