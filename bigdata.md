@@ -12,6 +12,8 @@ Broadly, the goal of this course is to prepare students to work with data at sca
 Assignments should pose challenging problems on real data sets.
 Lectures will use a high level programming language suitable for data analysis: Python, R, or Julia.
 
+TODO: Emphasis will be on first coming up with appropriate and theoretically justifiable techniques first, then implementing.
+
 ## Topics
 
 topic   |   example technologies    |   description
