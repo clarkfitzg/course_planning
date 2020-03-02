@@ -36,15 +36,10 @@ For example, high level data analysis questions might be:
 
 #### Course Description
 
-
-
-TODO: This is from STAT 128, write this once I have the rest in place.
-
-Course Description: 
-Computer methods for accessing, transforming, summarizing, graphing, and making statistical inferences from data.
-Focus is on open-source, command-line software, but menu-driven statistical software may be introduced.
-Students will learn to apply computer methods to solve problems selected from the areas of modeling, simulation, inference and statistical learning.
-The intent of this course is to provide students with the software skills needed for statistical work in industry or academia.
+Tools and techniques for statistical analysis of large, complex data sets.
+Technologies covered may include Python, Structured Query Language (SQL), and bash programming languages.
+Students will access data and run code on remote servers.
+High level parallel computing.
 3 units.
 
 
@@ -122,3 +117,18 @@ We could also simultaneously submit it as a new catalog course.
 
 
 I'm drawing some on my experience teaching STAT141C for UC Davis, [Big Data & High Performance Statistical Computing](https://github.com/clarkfitzg/sta141c-winter19)
+
+Course description STAT141C:
+High­performance computing in high­level data analysis languages;
+different computational approaches and paradigms for efficient analysis of big data;
+interfaces to compiled languages; R and Python programming languages;
+high­level parallel computing; MapReduce; parallel algorithms and reasoning.
+
+Course Description STAT128: 
+Computer methods for accessing, transforming, summarizing, graphing, and making statistical inferences from data.
+Focus is on open-source, command-line software, but menu-driven statistical software may be introduced.
+Students will learn to apply computer methods to solve problems selected from the areas of modeling, simulation, inference and statistical learning.
+The intent of this course is to provide students with the software skills needed for statistical work in industry or academia.
+3 units.
+
+
