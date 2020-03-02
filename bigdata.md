@@ -2,19 +2,81 @@
 
 Clark Fitzgerald
 
-These are working notes to develop a data science course that builds on the skills from STAT 128.
+### Introduction
 
-I'm drawing some on my experience teaching STAT141C for UC Davis, [Big Data & High Performance Statistical Computing](https://github.com/clarkfitzg/sta141c-winter19)
+These are working notes to develop a statistics / data science course focused on big data.
+Let's call it STAT 129, because STAT 128 is a prerequisite.
 
-------
+Broadly, the goal of this course is to teach students to apply statistics to realistic data sets at scale.
+For me, the whole point of a certificate in data science is for the students to become increasingly independent in how they're able to compute and analyze data. 
 
-Broadly, the goal of this course is to prepare students to work with data at scale.
-Assignments should pose challenging problems on real data sets.
-Lectures will use a high level programming language suitable for data analysis: Python, R, or Julia.
+Long term, STAT 129 can count as an elective in the following programs:
 
-TODO: Emphasis will be on first coming up with appropriate and theoretically justifiable techniques first, then implementing.
+1. math BA undergraduate major for the emphasis in Applied Math or the emphasis in Statistics
+1. the department's data science certificate
+2. the (currently on hold) math and applied computing undergraduate major that John Ingram is working on
+
+
+Lisa Taylor asked, 'how will we distinguish this as a math/stats course?'
+I.e., why is this course in math/stats rather than computer science?
+
+This course belongs in stats because the purpose of everything we do in this course is to answer data analysis questions.
+To answer these questions for real data sets we have to learn about the technologies that allow us to process the data.
+We write our programs solely to answer these questions, rather than developing more general purpose software.
+The technologies we use are a means to an end.
+
+For example, high level data analysis questions might be: 
+
+- Which customers are likely to return their products?
+- Which of these grant awards are unusual?
+- What are the trends in political party affiliation by location?
+
+
+# Syllabus
+
+#### Course Description
+
+
+
+TODO: This is from STAT 128, write this once I have the rest in place.
+
+Course Description: 
+Computer methods for accessing, transforming, summarizing, graphing, and making statistical inferences from data.
+Focus is on open-source, command-line software, but menu-driven statistical software may be introduced.
+Students will learn to apply computer methods to solve problems selected from the areas of modeling, simulation, inference and statistical learning.
+The intent of this course is to provide students with the software skills needed for statistical work in industry or academia.
+3 units.
+
+
+## Learning Objectives
+
+Upon completion of this course, students will be able to:
+
+- Develop statistical computer programs based on high level directions.
+- Summarize their approach and conclusions for a data analysis problem through technical written reports with appropriate graphics.
+- Identify and extract elements of interest from complex data sets, including tabular, hierarchical, streaming, and free text data.
+- Run programs on large data sets located on remote machines, which may include databases, remote compute clusters, and cloud services.
+- Implement basic data parallel programs.
+
+
+## Prerequisites
+
+Stat 128 or consent of the instructor.
+Students should be comfortable with computer programming.
+
 
 ## Topics
+
+- Assignments will pose challenging data analysis problems on real data sets.
+- Some assignments will feature 'dirty' data: missing, noisy, and possibly erroneous.
+  This will require students to make judgement calls about when and where to apply various statistical techniques, such as imputation.
+
+STAT 129 will primarily use the Python programming language for instruction in class, but will also include content on Structured Query Language (SQL) and bash.
+
+> Comment:
+> STAT 128 focuses on R, so any student who takes both STAT 128 and 129 will have at least been exposed to the 4 most common languages in data science.
+> This separation of languages also makes STAT 128 less of a 'hard' prerequisite; we'll teach Python from the beginning, assuming only that the student has learned to program in _any_ language, rather than assume they know R.
+
 
 topic   |   example technologies    |   description
 ------- | ----              |   ----
@@ -22,6 +84,9 @@ databases    | SQL     | Relational databases are the ubiqutious standard for da
 streaming data  | Python, bash  | Students will learn to process streams of data using iterators and the UNIX pipe model.
 remote computers    | bash, SSH     | Remote computers are necessary to work with data that's too large for a laptop. Students will interactively login and submit batch jobs. 
 parallel programming    | multiprocessing, MapReduce    | Students will learn to recognize and program the common case of applying the same function to many data elements, and collect the results.
+
+
+# Scratch
 
 
 ## Optional topics
@@ -33,9 +98,8 @@ parallel programming    | multiprocessing, MapReduce    | Students will learn to
 - packaging and software engineering.
     Students develop, install, use and test their own software.
     The emphasis should be on making software that's generalizable and reusable, rather than specific to a particular problem / analysis.
-- interfaces to compiled languages.
-    Interfacing from a high level language, (R or Python) to a lower level language, (C or Fortran).
-    This is likely a bit of a stretch.
+
+
 
 ## Roadmap
 
@@ -46,7 +110,15 @@ If STAT 128 is offered in the fall, then I think it makes most sense to offer th
 I intend to develop this course first as an experimental offering in Spring of 2021.
 We could also simultaneously submit it as a new catalog course.
 
-Longer term, I believe this course can fit in to the department's data science certificate, and at least as an optional course for the math and applied computing undergraduate major that John Ingram is working on.
+
+----
+
+- Critically evaluate new data technologies, and understand them in the context of existing technologies and concepts
+- Critically compare and contrast different approaches to a particular data analysis problem.
+- Computational reasoning- start with a high level analytic question, and use data and technology to answer it.
+- Students should have an overview of available technologies, and be able to critically compare technologies.
+    _I'm thinking about Duncan's approach of showing students several ways to solve a problem and let them compare and contrast._
+- Students should have the confidence to work with any kind of data they are given.
 
 
-
+I'm drawing some on my experience teaching STAT141C for UC Davis, [Big Data & High Performance Statistical Computing](https://github.com/clarkfitzg/sta141c-winter19)
