@@ -20,12 +20,12 @@ Long term, STAT 129 can count as an elective in the following programs:
 ### Feedback
 
 Lisa Taylor asked, 'how will we distinguish this as a math/stats course?'
-I.e., why is this course in math/stats rather than computer science?
+That is, why is this course in math/stats rather than computer science?
 
-This course belongs in stats because the purpose of everything we do in this course is to answer data analysis questions.
+This course belongs in Statistics because the purpose of everything we do in this course is to answer data analysis questions.
 To answer these questions for real data sets we have to learn about the technologies that allow us to process the data.
 We write our programs solely to answer these questions, rather than developing more general purpose software.
-The focus of this course is _not_ implementation; we build on existing lower level implementations whenever possible, rather than reimplementing common tasks.
+The focus of this course is _not_ implementation; we build on existing lower level software implementations whenever possible, rather than reimplementing common tasks.
 Thus, the technologies are a means to an end.
 
 The following are examples of high level data analysis questions:
@@ -34,6 +34,7 @@ The following are examples of high level data analysis questions:
 - Which of these grant awards are unusual?
 - What are the trends in political party affiliation by location?
 
+\pagebreak
 
 # Syllabus
 
@@ -51,8 +52,8 @@ Technologies covered may include Python, Structured Query Language (SQL), and ba
 
 Upon completion of this course, students will be able to:
 
-- Develop complete statistical computer programs based on high level directions, using standard software implementations.
-    Their programs will be complete in the sense that they start with processing raw data, and finish with final summaries and results necessary for reports.
+- Develop complete statistical computer programs based on high level directions, using standard software packages.
+    Their programs will be complete in the sense that they start with processing raw data, and finish by producing final summaries and results necessary for reports.
 - Summarize their approach and conclusions for a data analysis problem through technical written reports with appropriate graphics.
 - Apply standard statistical techniques suitable for big data, for example, dimension reduction, clustering algorithms, and text mining.
 - Identify and extract elements of interest from complex data sets, including tabular, hierarchical, streaming, and text data.
@@ -81,6 +82,7 @@ This will require students to make judgement calls about when and where to apply
 ## Topics
 
 STAT 129 will primarily use the Python programming language for instruction in class, but will also include content on Structured Query Language (SQL) and bash.
+Students are welcome to do some assignments in any programming language they are comfortable with.
 
 > Comments:
 >
@@ -92,13 +94,14 @@ STAT 129 will primarily use the Python programming language for instruction in c
 
 
 topic   |   example technologies    |   description
-------- | ----              |   ----
-databases    | SQL     | Relational databases are the ubiqutious standard for data storage. Students will write SQL queries to filter and join tables in a database.
+----- | ------- |-------------------- 
 streaming data  | Python, bash  | Students will learn to process streams of data using iterators and the UNIX pipe model.
 remote computers    | bash, SSH     | Remote computers are necessary to work with data that's too large for a laptop. Students will interactively login and submit batch jobs. 
+databases    | SQL     | Relational databases are the ubiqutious standard for data storage. Students will write SQL queries to filter and join tables in a database.
 parallel programming    | multiprocessing, MapReduce    | Students will learn to recognize and program the common case of applying the same function to many data elements, and collect the results.
 
 
+<!--
 # Scratch
 
 
@@ -149,4 +152,4 @@ Students will learn to apply computer methods to solve problems selected from th
 The intent of this course is to provide students with the software skills needed for statistical work in industry or academia.
 3 units.
 
-
+-->
