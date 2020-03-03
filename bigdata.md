@@ -25,6 +25,7 @@ I.e., why is this course in math/stats rather than computer science?
 This course belongs in stats because the purpose of everything we do in this course is to answer data analysis questions.
 To answer these questions for real data sets we have to learn about the technologies that allow us to process the data.
 We write our programs solely to answer these questions, rather than developing more general purpose software.
+The focus of this course is _not_ implementation; we build on existing lower level implementations whenever possible, rather than reimplementing common tasks.
 Thus, the technologies are a means to an end.
 
 The following are examples of high level data analysis questions:
@@ -39,6 +40,7 @@ The following are examples of high level data analysis questions:
 ## Course Description
 
 Tools and techniques for statistical analysis of large, complex data sets.
+Application of statistical techniques suitable for big data, for example, dimension reduction, clustering algorithms, and text mining.
 Students will access data and run code on remote servers.
 High level parallel computing.
 Technologies covered may include Python, Structured Query Language (SQL), and bash programming languages.
@@ -49,8 +51,10 @@ Technologies covered may include Python, Structured Query Language (SQL), and ba
 
 Upon completion of this course, students will be able to:
 
-- Develop statistical computer programs based on high level directions.
+- Develop complete statistical computer programs based on high level directions, using standard software implementations.
+    Their programs will be complete in the sense that they start with processing raw data, and finish with final summaries and results necessary for reports.
 - Summarize their approach and conclusions for a data analysis problem through technical written reports with appropriate graphics.
+- Apply standard statistical techniques suitable for big data, for example, dimension reduction, clustering algorithms, and text mining.
 - Identify and extract elements of interest from complex data sets, including tabular, hierarchical, streaming, and free text data.
 - Run programs on large data sets located on remote machines, which may include databases, remote compute clusters, and cloud services.
 - Implement basic data parallel programs.
@@ -61,9 +65,12 @@ Upon completion of this course, students will be able to:
 Stat 128 or consent of the instructor.
 Students should be comfortable with computer programming.
 
-> Comment:
-> STAT 128 focuses on R, so any student who takes both STAT 128 and 129 will have at least been exposed to the 4 most common languages in data science.
+> Comments:
+>
+> CF: STAT 128 focuses on R, so any student who takes both STAT 128 and 129 will have at least been exposed to the 4 most common languages in data science.
 > This separation of languages also makes STAT 128 less of a 'hard' prerequisite; we'll teach Python from the beginning, assuming only that the student has learned to program in _any_ language, rather than assume they know R.
+>
+> MN: I like the idea of making Stat 128 a 'soft' prereq.  Some CS students in particular may wish to take Stat 129 without the Stat 128 prereq.
 
 
 ## Topics
