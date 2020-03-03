@@ -55,7 +55,7 @@ Upon completion of this course, students will be able to:
     Their programs will be complete in the sense that they start with processing raw data, and finish with final summaries and results necessary for reports.
 - Summarize their approach and conclusions for a data analysis problem through technical written reports with appropriate graphics.
 - Apply standard statistical techniques suitable for big data, for example, dimension reduction, clustering algorithms, and text mining.
-- Identify and extract elements of interest from complex data sets, including tabular, hierarchical, streaming, and free text data.
+- Identify and extract elements of interest from complex data sets, including tabular, hierarchical, streaming, and text data.
 - Run programs on large data sets located on remote machines, which may include databases, remote compute clusters, and cloud services.
 - Implement basic data parallel programs.
 
@@ -65,6 +65,23 @@ Upon completion of this course, students will be able to:
 Stat 128 or consent of the instructor.
 Students should be comfortable with computer programming.
 
+
+## Evaluation
+
+- 60% Assignments 
+- 15% Midterm
+- 5% Participation
+- 20% Final Project
+
+4 to 8 assignments over the course of the semester will pose challenging data analysis problems on real data sets.
+Some assignments will feature 'dirty' data: missing, noisy, and possibly erroneous.
+This will require students to make judgement calls about when and where to apply various statistical techniques, such as imputation.
+
+
+## Topics
+
+STAT 129 will primarily use the Python programming language for instruction in class, but will also include content on Structured Query Language (SQL) and bash.
+
 > Comments:
 >
 > CF: STAT 128 focuses on R, so any student who takes both STAT 128 and 129 will have at least been exposed to the 4 most common languages in data science.
@@ -72,14 +89,6 @@ Students should be comfortable with computer programming.
 >
 > MN: I like the idea of making Stat 128 a 'soft' prereq.  Some CS students in particular may wish to take Stat 129 without the Stat 128 prereq.
 
-
-## Topics
-
-STAT 129 will primarily use the Python programming language for instruction in class, but will also include content on Structured Query Language (SQL) and bash.
-
-- Assignments will pose challenging data analysis problems on real data sets.
-- Some assignments will feature 'dirty' data: missing, noisy, and possibly erroneous.
-  This will require students to make judgement calls about when and where to apply various statistical techniques, such as imputation.
 
 
 topic   |   example technologies    |   description
