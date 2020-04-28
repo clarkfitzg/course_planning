@@ -1,0 +1,183 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="Content-Style-Type" content="text/css" />
+  <meta name="generator" content="pandoc" />
+  <title></title>
+  <style type="text/css">code{white-space: pre;}</style>
+</head>
+<body>
+<h1 id="stat-129-big-data">STAT 129: Big Data</h1>
+<p>California State University, Sacramento · Department of Mathematics &amp; Statistics</p>
+<p>Broadly, the goal of this course is to teach students to apply statistics to challenging, real world data sets. Students should come away from this course with the confidence to work with nearly any kind of data they encounter.</p>
+<h3 id="introduction">Introduction</h3>
+<p>These are working notes to develop a statistics / data science course focused on big data. Let's call it STAT 129, because STAT 128 is a prerequisite.</p>
+<p>Broadly, the goal of this course is to teach students to apply statistics to challenging, real world data sets. For me, the goal of a certificate in data science is for the students to become increasingly independent in how they're able to compute and analyze data. This course is a step in that direction; it should provide students with the confidence to work with nearly <em>any</em> kind of data they encounter.</p>
+<p>Long term, STAT 129 can count as an elective in the following programs:</p>
+<ol style="list-style-type: decimal">
+<li>math BA undergraduate major for the emphasis in Applied Math or the emphasis in Statistics</li>
+<li>the department's data science certificate</li>
+<li>the (currently on hold) math and applied computing undergraduate major that John Ingram is working on</li>
+</ol>
+<h3 id="feedback">Feedback</h3>
+<p>Lisa Taylor asked, 'how will we distinguish this as a math/stats course?' That is, why is this course in math/stats rather than computer science?</p>
+<p>This course belongs in Statistics because the purpose of everything we do in this course is to answer data analysis questions. To answer these questions for real data sets we have to learn about the technologies that allow us to process the data. We write our programs solely to answer these questions, rather than developing more general purpose software. The focus of this course is <em>not</em> implementation; we build on existing lower level software implementations whenever possible, rather than reimplementing common tasks. Thus, the technologies are a means to an end.</p>
+<p>The following are examples of high level data analysis questions:</p>
+<ul>
+<li>Which customers are likely to return their products?</li>
+<li>Which of these grant awards are unusual?</li>
+<li>What are the trends in political party affiliation by location?</li>
+</ul>
+
+<h1 id="syllabus">Syllabus</h1>
+<h2 id="course-description">Course Description</h2>
+<p>Tools and techniques for statistical analysis of large, complex data sets. Application of statistical techniques suitable for big data, for example, dimension reduction, clustering algorithms, and text mining. Students will access data and run code on remote servers. High level parallel computing. Technologies covered may include Python, Structured Query Language (SQL), and bash programming languages. 3 units.</p>
+<h2 id="learning-objectives">Learning Objectives</h2>
+<p>Upon completion of this course, students will be able to:</p>
+<ul>
+<li>Develop complete statistical computer programs based on high level directions, using standard software packages. Their programs will be complete in the sense that they start with processing raw data, and finish by producing final summaries and results necessary for reports.</li>
+<li>Summarize their approach and conclusions for a data analysis problem through technical written reports with appropriate graphics.</li>
+<li>Apply standard statistical techniques suitable for big data, for example, dimension reduction, clustering algorithms, and text mining.</li>
+<li>Identify and extract elements of interest from complex data sets, including tabular, hierarchical, streaming, and text data.</li>
+<li>Run programs on large data sets located on remote machines, which may include databases, remote compute clusters, and cloud services.</li>
+<li>Implement basic data parallel programs.</li>
+</ul>
+<h2 id="prerequisites">Prerequisites</h2>
+<p>Stat 128 or consent of the instructor. Students should be comfortable with computer programming.</p>
+<h2 id="evaluation">Evaluation</h2>
+<ul>
+<li>60% Assignments</li>
+<li>15% Midterm</li>
+<li>5% Participation</li>
+<li>20% Final Project</li>
+</ul>
+<p>4 to 8 assignments over the course of the semester will pose challenging data analysis problems on real data sets. Some assignments will feature 'dirty' data: missing, noisy, and possibly erroneous. This will require students to make judgement calls about when and where to apply various statistical techniques, such as imputation.</p>
+<h2 id="topics">Topics</h2>
+<p>STAT 129 will primarily use the Python programming language for instruction in class, but will also include content on Structured Query Language (SQL) and bash. Students are welcome to do some assignments in any programming language they are comfortable with.</p>
+<blockquote>
+<p>Comments:</p>
+<p>CF: STAT 128 focuses on R, so any student who takes both STAT 128 and 129 will have at least been exposed to the 4 most common languages in data science. This separation of languages also makes STAT 128 less of a 'hard' prerequisite; we'll teach Python from the beginning, assuming only that the student has learned to program in <em>any</em> language, rather than assume they know R.</p>
+<p>MN: I like the idea of making Stat 128 a 'soft' prereq. Some CS students in particular may wish to take Stat 129 without the Stat 128 prereq.</p>
+</blockquote>
+<ol style="list-style-type: decimal">
+<li>Python Programming (5 weeks)
+<ol style="list-style-type: decimal">
+<li>Introduction: when and how to use Python</li>
+<li>Syntax and computational model</li>
+<li>How to use a debugger</li>
+<li>Iterators: process infinite amounts of data with minimal memory overhead</li>
+<li>Standard library, for example: <code>re</code>, <code>math</code>, <code>collections</code>, <code>functools</code></li>
+<li>Text processing</li>
+<li>The scientific software stack: Numpy, scipy, matplotlib, pandas</li>
+</ol></li>
+<li>Remote Computing (4 weeks)
+<ol style="list-style-type: decimal">
+<li>Client-server model</li>
+<li>SSH and bash (command line)</li>
+<li>Synchronizing code and data</li>
+<li>Interactive vs. batch job submissions</li>
+</ol></li>
+<li>Databases (3 weeks)
+<ol style="list-style-type: decimal">
+<li>Tables, joins, and relational model</li>
+<li>Structured Query Language (SQL); declarative versus procedural languages</li>
+<li>Interacting with a database through a programming language</li>
+</ol></li>
+<li>Parallel Programming (3 weeks)
+<ol style="list-style-type: decimal">
+<li>Profiling and measurements to determine where and how a program is slow</li>
+<li>MapReduce and data parallelism</li>
+<li><code>multiprocessing</code> in Python</li>
+</ol></li>
+</ol>
+<table style="width:49%;">
+<colgroup>
+<col width="8%" />
+<col width="11%" />
+<col width="29%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>topic</th>
+<th>example technologies</th>
+<th>description</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>streaming data</td>
+<td>Python, bash</td>
+<td>Students will learn to process streams of data using iterators and the UNIX pipe model.</td>
+</tr>
+<tr class="even">
+<td>remote computers</td>
+<td>bash, SSH</td>
+<td>Remote computers are necessary to work with data that's too large for a laptop. Students will interactively login and submit batch jobs.</td>
+</tr>
+<tr class="odd">
+<td>databases</td>
+<td>SQL</td>
+<td>Relational databases are the ubiqutious standard for data storage. Students will write SQL queries to filter and join tables in a database.</td>
+</tr>
+<tr class="even">
+<td>parallel programming</td>
+<td>multiprocessing, MapReduce</td>
+<td>Students will learn to recognize and program the common case of applying the same function to many data elements, and collect the results.</td>
+</tr>
+</tbody>
+</table>
+<!--
+# Scratch
+
+
+## Optional topics
+
+- web application programming interfaces (API)'s.
+    Authenticate and retreive structured data in real time from remote servers.
+- web scraping.
+    Extract data in non standard structured formats, for example, tables embedded in HTML.
+- packaging and software engineering.
+    Students develop, install, use and test their own software.
+    The emphasis should be on making software that's generalizable and reusable, rather than specific to a particular problem / analysis.
+
+
+
+## Roadmap
+
+Experimental offerings (course listing 196) need to be proposed in the department by January/February to run the next fall, and August/September to run the following spring.
+New catalog courses need to be proposed a full academic year earlier.
+
+If STAT 128 is offered in the fall, then I think it makes most sense to offer this course in the spring, so that students can take it as a year long sequence.
+I intend to develop this course first as an experimental offering in Spring of 2021.
+We could also simultaneously submit it as a new catalog course.
+
+
+----
+
+- Critically evaluate new data technologies, and understand them in the context of existing technologies and concepts
+- Critically compare and contrast different approaches to a particular data analysis problem.
+- Computational reasoning- start with a high level analytic question, and use data and technology to answer it.
+- Students should have an overview of available technologies, and be able to critically compare technologies.
+    _I'm thinking about Duncan's approach of showing students several ways to solve a problem and let them compare and contrast._
+- Students should have the confidence to work with any kind of data they are given.
+
+
+I'm drawing some on my experience teaching STAT141C for UC Davis, [Big Data & High Performance Statistical Computing](https://github.com/clarkfitzg/sta141c-winter19)
+
+Course description STAT141C:
+High­performance computing in high­level data analysis languages;
+different computational approaches and paradigms for efficient analysis of big data;
+interfaces to compiled languages; R and Python programming languages;
+high­level parallel computing; MapReduce; parallel algorithms and reasoning.
+
+Course Description STAT128: 
+Computer methods for accessing, transforming, summarizing, graphing, and making statistical inferences from data.
+Focus is on open-source, command-line software, but menu-driven statistical software may be introduced.
+Students will learn to apply computer methods to solve problems selected from the areas of modeling, simulation, inference and statistical learning.
+The intent of this course is to provide students with the software skills needed for statistical work in industry or academia.
+3 units.
+
+-->
+</body>
+</html>

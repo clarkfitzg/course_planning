@@ -1,0 +1,30 @@
+digraph G {
+
+rankdir=LR;
+
+eda [label = "exploratory\ndata analysis"];
+tabular [label = "tabular data"];
+joins [label = "database joins"];
+linreg [label = "linear\nregression"];
+feature [label = "feature\nengineering"];
+correlation;
+independence;
+
+// hard prerequisites
+edge [style = "bold"];
+
+algebra -> calculus;
+tabular -> joins;
+tabular -> eda;
+sampling -> eda;
+variance -> correlation;
+probability -> variance;
+probability -> independence;
+
+// soft prerequisites
+edge [style = "dotted"];
+
+calculus -> probability;
+joins -> feature;
+
+}

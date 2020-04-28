@@ -97,6 +97,28 @@ Students are welcome to do some assignments in any programming language they are
 > MN: I like the idea of making Stat 128 a 'soft' prereq.  Some CS students in particular may wish to take Stat 129 without the Stat 128 prereq.
 
 
+1. Python Programming (5 weeks)
+    1. Introduction: when and how to use Python
+    2. Syntax and computational model
+    2. How to use a debugger
+    1. Iterators: process infinite amounts of data with minimal memory overhead
+    1. Standard library, for example: `re`, `math`, `collections`, `functools`
+    3. Text processing
+    3. The scientific software stack: Numpy, scipy, matplotlib, pandas
+2. Remote Computing (4 weeks)
+    1. Client-server model
+    1. SSH and bash (command line)
+    2. Synchronizing code and data
+    2. Interactive vs. batch job submissions
+2. Databases (3 weeks)
+    1. Tables, joins, and relational model
+    1. Structured Query Language (SQL); declarative versus procedural languages
+    2. Interacting with a database through a programming language
+3. Parallel Programming (3 weeks)
+    1. Profiling and measurements to determine where and how a program is slow
+    1. MapReduce and data parallelism
+    2. `multiprocessing` in Python
+    
 
 topic   |   example technologies    |   description
 ----- | ------- |-------------------- 
