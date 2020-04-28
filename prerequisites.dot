@@ -2,29 +2,59 @@ digraph G {
 
 rankdir=LR;
 
-eda [label = "exploratory\ndata analysis"];
+// computer science / programming
+node [style = "filled", fillcolor = "/accent3/1"]
+
 tabular [label = "tabular data"];
 joins [label = "database joins"];
+bash;
+remote_hpc [label = "remote job submission"];
+eda [label = "exploratory\ndata analysis"];
+
+
+// mathematical
+node [style = "filled", fillcolor = "/accent3/2"]
+
 linreg [label = "linear\nregression"];
+logreg [label = "logistic\nregression"];
 feature [label = "feature\nengineering"];
 correlation;
 independence;
+svm [label = "SVM (support\nvector machines)"];
+trees [label = "decision trees"];
+multivar [label = "multivariate\nfunctions"];
+hypo [label = "hypothesis\ntesting"];
+
+// statistical / machine learning
+node [style = "filled", fillcolor = "/accent3/3"]
 
 // hard prerequisites
 edge [style = "bold"];
 
 algebra -> calculus;
+calculus -> optimization;
 tabular -> joins;
 tabular -> eda;
+tabular -> linreg;
 sampling -> eda;
 variance -> correlation;
 probability -> variance;
 probability -> independence;
+variance -> hypo;
+sampling -> variance;
+correlation -> linreg;
+optimization -> svm;
+multivar -> svm;
+bash -> remote_hpc;
 
 // soft prerequisites
 edge [style = "dotted"];
 
 calculus -> probability;
 joins -> feature;
+optimization -> linreg;
+optimization -> trees;
+multivar -> linreg;
+linreg -> logreg;
 
 }
