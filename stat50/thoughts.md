@@ -50,7 +50,11 @@ How am I going to manage my workload?
 One idea is to post student solutions to assignments that I grade in detail.
 This saves me the work of having to write out the solution, and helps them review.
 
-Potential activities:
+How to ensure academic integrity?
+I'd like to disincentivize cheating as much as possible.
+
+
+### Potential Activities
 
 - homework, Mcgraw Hill automated
 - homework, Mcgraw Hill manual
@@ -65,25 +69,33 @@ Potential activities:
 - comprehensive final
 
 
-Grading scheme
+### Grading Scheme
 
-- homework, Mcgraw Hill manual
-- written quiz where I give personal feedback
-- weekly written hw 
 - 10% homework, Mcgraw Hill automated
-- 30% homework, written (I give personal feedback, they'll be able to resubmit.)
-- 20% participation
+    purpose: practice with standard problems, verify work by checking with in depth solutions (usually) and the ability to check their work.
+    Working with oth: totally fine!
+- 25% homework, written (I give personal feedback, they'll be able to resubmit.)
+    Te
+- 15% participation
     - discussions, for example, read a relevant news article and analyze the statistics used.
     - profile pics
     - review videos
     - comprehension quizzes?
     - survey?
     - peer feedback?
-- 20% midterms, multiple choice and paper parts?
-- 20% comprehensive final
+    - challenge questions?
+- 20% midterms, timed online and take home parts.
+    Students can retake both parts.
+- 30% comprehensive final.
+    This will be similar to the midterms.
 
-Weekly schedule:
+Percentage  |   Category    |   Description     |   Can I work with others?
 
-- 1 written hw
-- 2 Mcgraw Hill hws
-- 1 discussion / participation activity
+The idea of this grading scheme 
+
+
+### Weekly Schedule
+
+- 1 written hw or midterm - 5 hrs
+- 2 (short) Mcgraw Hill hws - 2 hrs
+- 1 discussion / participation activity - 1 to 3 hrs
