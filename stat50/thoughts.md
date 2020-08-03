@@ -88,14 +88,15 @@ Idea: facilitate study groups
 
 Percentage  |   Category    |   Description & Purpose     |   Collaboration Policy
 ----------  |   --------    |   -----------     |   ----------------------
-10          | Practice Problems |   Online homework allows you to instantly check your work and see solutions, so that you can make sure you're on the right track. The purpose is to give you practice with standard calculations and concepts.   |   I encourage you to work closely with others.
-25          | Homework      |   Expect these problem sets to challenge you more than those on the automated homework. I will grade a subset of these problems to provide you with feedback on your work, and allow you an opportunity to resubmit to correct any mistakes.    |   You may talk with others about general approaches to the problem, but I expect the submitted solution to be your own unique work.
-15          | Participation |   This category includes setting up online profiles, Canvas discussions, making review videos, and anything that doesn't fit cleanly somewhere else. The purpose is to make our online class feel more like a community by having some interaction with each other.    |   I encourage you to work closely with others.
+10          | Practice Problems |   Online homework allows you to instantly check your work and see solutions, so that you can make sure you're on the right track. The purpose is to give you practice with standard calculations and concepts.   |   Collaboration is allowed.
+25          | Homework      |   Expect these problem sets to challenge you more than those on the automated homework. I will grade a subset of these problems to provide you with feedback on your work, and allow you an opportunity to resubmit to correct any mistakes.    |   Talking about problems is allowed.
+15          | Participation |   This category includes setting up online profiles, Canvas discussions, making review videos, and anything that doesn't fit cleanly somewhere else. The purpose is to make our online class feel more like a community by having some interaction with each other.    |   Collaboration is allowed.
 20          | Midterms      |   Midterms will be similar to the homework, with a format that prepares you for the final. You will have an opportunity to resubmit the written parts to correct any mistakes. |   Do not collaborate.
 30          | Final or Oral |   This is a standard final exam to assess how well you've learned the class concepts. It will be due at the end of the semester, which means you will NOT have an opportunity to resubmit. If there is any question on whether you followed the collaboration policy in this course, then I may schedule a one on one oral exam through Zoom video chat. The oral exam will be no more difficult than the written exam. |   Do not collaborate.
 
 The general idea of this grading scheme is to minimize the pressure on you, the student.
 Fall 2020 is highly unusual with the switch to online classes amidst the global COVID-19 pandemic, and I've adapted by becoming more flexible and offering more opportunities to resubmit work.
+
 
 ### FAQ's
 
@@ -103,6 +104,17 @@ Fall 2020 is highly unusual with the switch to online classes amidst the global 
 
 Class is where we'll cover the core material and do practice problems and other interactive activities, so plan on attending.
 I do plan to record class meetings and make them available for you if you happen to miss one.
+
+> Can you clarify the collaboration policy?
+
+Submit your own assignments, always.
+"Collaboration is allowed" means you can help each other and work freely together, no worries.
+"Do not collaborate" means you shouldn't receive any outside assistance, so don't talk about them.
+The only exception is that you can ask me, the instructor, for clarification.
+
+The category of the homework requires the most explanation.
+You may work together and talk through the problems, but you need to understand each and every step in the solution that you turn in.
+In this case, I would appreciate a note on your submission saying who you worked with, and on which parts.
 
 
 ### Weekly Schedule
