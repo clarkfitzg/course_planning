@@ -19,7 +19,14 @@ List of topics by week
         - construct histograms from data given class interval boundary points
         - determine where percentiles must be located based on histograms
         - distinguish and interpret symmetric versus skewed histograms
-        - construct and interpret boxplots
 2. 
+    - 1.3 continued
+        - construct and interpret boxplots
+        - construct and interpret scatterplots
     - 2.1
-        - 
+        - union, intersection, complement, mutually exclusive
+        - axioms of probability
+    - 2.1 continued
+        - Venn diagrams, geometric interpretation of probability
+        - addition rule
+
