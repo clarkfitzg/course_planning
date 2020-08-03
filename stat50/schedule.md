@@ -8,5 +8,18 @@ Students are given periodic writing assignments which encourage them to think th
 List of topics by week
 
 1.
-    - Introduction, course walk through
-    - 1.1 Sampling
+    - 1.1
+        - determine whether a sample is simple random sample
+    - 1.2
+        - define statistic
+        - calculate and interpret measures of center: mean, median, mode
+        - calculate and interpret measures of spread: sample variance, standard deviation, range
+        - calculate and interpret percentiles
+    - 1.3
+        - construct histograms from data given class interval boundary points
+        - determine where percentiles must be located based on histograms
+        - distinguish and interpret symmetric versus skewed histograms
+        - construct and interpret boxplots
+2. 
+    - 2.1
+        - 
