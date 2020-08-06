@@ -69,8 +69,8 @@ I'd like to disincentivize cheating as much as possible.
 - comprehensive final
 
 Can I get away with not using Mcgraw Hill connect?
-I don't want to use it, because I'm going to use Gradescope, and I don't want the students to have to deal with two external systems if I can help it.
+I don't want to use it, because I'm going to use Gradescope, and I don't want the students to have to deal with two external homework submission systems if I can help it.
 The textbook has the answers to odd numbered questions in the book.
 I can keep some minimal points for it, so that students are incentivized to actually do it.
-I won't grade it- tell them, you grade it.
+I won't grade it- the answers are in the book.
 If there is a question on grades then I can go back and look at it, check whether they seriously did it or not.

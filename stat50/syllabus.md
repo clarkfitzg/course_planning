@@ -1,25 +1,17 @@
 # Syllabus
 
-Course: STAT 50 Introduction to Probability and Statistics
+__Course:__ STAT 50 Introduction to Probability and Statistics
 
-Term: Fall 2020
+__Term:__ Fall 2020
 
-Instructor: Dr. Clark Fitzgerald
+__Instructor:__ Dr. Clark Fitzgerald fitzgerald@csus.edu
 
-Textbook: Statistics for Engineers and Scientists, 5th edition by William Navidi.
-You are _not_ required to purchase or rent a hard copy of the textbook, because an electronic version is included with the homework in McGraw Connect.
-We will cover chapters 1, 2, 4, 5, and 6, omitting some sections.
-
-Prerequisites: Math 26A, Math 30 or AP credit for AB calculus in high school.
+__Prerequisites:__ Math 26A, Math 30 or AP credit for AB calculus in high school.
 
 [College Drop Policy](https://www.csus.edu/college/natural-sciences-mathematics/mathematics-statistics/_internal/docs/drop-policy.pdf)
 Note that for the first two weeks, you can drop yourself on my.csus.edu.
 
-
-## Course Description
-
-From the catalog:
-
+__Course Description:__
 Sample spaces, combinatorics, and random variables.
 Density and distribution functions.
 Expectation, variance, and covariance.
@@ -27,13 +19,35 @@ The binomial, uniform, poisson, negative binomial, hypergeometric, exponential, 
 Sampling distributions, estimation, and hypothesis tests.
 4 units.
 
+__Textbook:__
+Statistics for Engineers and Scientists, 5th edition by William Navidi.
+We will do problems assigned from the book, so you need the 5th edition.
+The publisher, McGraw Hill, has [several rental / purchase options available](https://www.mheducation.com/highered/product/statistics-engineers-scientists-navidi/M9781259717604.affordability.html#buying-options) starting at $55. 
 
-### Grading Scheme
+__Computer and Internet Access:__
+You'll need a computer or tablet with reliable internet to attend course meetings and office hours through Zoom video.
+The screen should be at least 8 inches so that you can see my handwritten notes.
+I highly recommend you turn on your video so that you can have better interactions with your classmates in group activities.
+
+__Other Technologies:__
+We'll use technology for a couple other activities besides class meetings:
+
+- Make videos, so you'll need a smartphone, webcam, or at least a microphone.
+    Video editing software is nice, but not essential.
+- Scan and upload your homework and exam submissions, so you'll need a smartphone, tablet, or a scanner.
+
+You won't need to use these all the time.
+
+__Inclusive Access:__
+If you have trouble affording this, then please contact me ASAP and we'll work out an alternative.
+
+
+## Grading Scheme
 
 Percentage  |   Category    |   Description & Purpose     |   Collaboration Policy
 ----------  |   --------    |   -----------     |   ----------------------
-10          | Practice Problems |   Online homework allows you to instantly check your work and see solutions, so that you can make sure you're on the right track. The purpose is to give you practice with standard calculations and concepts.   |   Collaboration is allowed.
-25          | Homework      |   Expect these problem sets to challenge you more than those on the automated homework. I will grade a subset of these problems to provide you with feedback on your work, and allow you an opportunity to resubmit to correct any mistakes.    |   Talking about problems is allowed.
+5           | Practice Problems |   These are questions where the answer is available at the back of the book, so that you can check your work make sure you're on the right track. I won't grade these; if you turn something in you'll get full points. I may look over the submissions occasionally to see how you're doing. The purpose is to give you practice with standard calculations and concepts, and to encourage regular review.  |   Collaboration is allowed.
+30          | Homework      |   These problem will challenge you more than the practice problems. I will grade a subset of these problems to provide you with feedback on your work, and allow you an opportunity to resubmit to correct any mistakes.    |   Talking about problems is allowed.
 15          | Participation |   This category includes setting up online profiles, Canvas discussions, making review videos, and anything that doesn't fit cleanly somewhere else. The purpose is to make our online class feel more like a community by having some interaction with each other.    |   Collaboration is allowed.
 20          | Midterms      |   Midterms will be similar to the homework, with a format that prepares you for the final. You will have an opportunity to resubmit the written parts to correct any mistakes. |   Do not collaborate.
 30          | Final or Oral |   This is a standard final exam to assess how well you've learned the class concepts. It will be due at the end of the semester, which means you will NOT have an opportunity to resubmit. If there is any question on whether you followed the collaboration policy in this course, then I may schedule a one on one oral exam through Zoom video chat. The oral exam will be no more difficult than the written exam. |   Do not collaborate.
