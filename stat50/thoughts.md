@@ -68,57 +68,9 @@ I'd like to disincentivize cheating as much as possible.
 - games, competition
 - comprehensive final
 
-
-### Grading Scheme
-
-- 15% participation
-    - discussions, for example, read a relevant news article and analyze the statistics used.
-    - profile pics
-    - review videos
-    - comprehension quizzes?
-    - survey?
-    - peer feedback?
-    - challenge questions?
-- 20% midterms, timed online and take home parts.
-    Students can retake both parts.
-- 30% comprehensive final.
-    This will be similar to the midterms.
-
-Idea: facilitate study groups
-
-Percentage  |   Category    |   Description & Purpose     |   Collaboration Policy
-----------  |   --------    |   -----------     |   ----------------------
-10          | Practice Problems |   Online homework allows you to instantly check your work and see solutions, so that you can make sure you're on the right track. The purpose is to give you practice with standard calculations and concepts.   |   Collaboration is allowed.
-25          | Homework      |   Expect these problem sets to challenge you more than those on the automated homework. I will grade a subset of these problems to provide you with feedback on your work, and allow you an opportunity to resubmit to correct any mistakes.    |   Talking about problems is allowed.
-15          | Participation |   This category includes setting up online profiles, Canvas discussions, making review videos, and anything that doesn't fit cleanly somewhere else. The purpose is to make our online class feel more like a community by having some interaction with each other.    |   Collaboration is allowed.
-20          | Midterms      |   Midterms will be similar to the homework, with a format that prepares you for the final. You will have an opportunity to resubmit the written parts to correct any mistakes. |   Do not collaborate.
-30          | Final or Oral |   This is a standard final exam to assess how well you've learned the class concepts. It will be due at the end of the semester, which means you will NOT have an opportunity to resubmit. If there is any question on whether you followed the collaboration policy in this course, then I may schedule a one on one oral exam through Zoom video chat. The oral exam will be no more difficult than the written exam. |   Do not collaborate.
-
-The general idea of this grading scheme is to minimize the pressure on you, the student.
-Fall 2020 is highly unusual with the switch to online classes amidst the global COVID-19 pandemic, and I've adapted by becoming more flexible and offering more opportunities to resubmit work.
-
-
-### FAQ's
-
-> Do I have to attend class?
-
-Class is where we'll cover the core material and do practice problems and other interactive activities, so plan on attending.
-I do plan to record class meetings and make them available for you if you happen to miss one.
-
-> Can you clarify the collaboration policy?
-
-Submit your own assignments, always.
-"Collaboration is allowed" means you can help each other and work freely together, no worries.
-"Do not collaborate" means you shouldn't receive any outside assistance, so don't talk about them.
-The only exception is that you can ask me, the instructor, for clarification.
-
-The category of the homework requires the most explanation.
-You may work together and talk through the problems, but you need to understand each and every step in the solution that you turn in.
-In this case, I would appreciate a note on your submission saying who you worked with, and on which parts.
-
-
-### Weekly Schedule
-
-- 1 written hw or midterm - 5 hrs
-- 2 (short) Mcgraw Hill hws - 2 hrs
-- 1 discussion / participation activity - 1 to 3 hrs
+Can I get away with not using Mcgraw Hill connect?
+I don't want to use it, because I'm going to use Gradescope, and I don't want the students to have to deal with two external systems if I can help it.
+The textbook has the answers to odd numbered questions in the book.
+I can keep some minimal points for it, so that students are incentivized to actually do it.
+I won't grade it- tell them, you grade it.
+If there is a question on grades then I can go back and look at it, check whether they seriously did it or not.
