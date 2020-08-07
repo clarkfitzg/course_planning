@@ -38,6 +38,9 @@ __Textbook:__
 Statistics for Engineers and Scientists, 5th edition by William Navidi.
 We will do problems assigned from the book, so you need the 5th edition.
 The publisher, McGraw Hill, has [several rental / purchase options available](https://www.mheducation.com/highered/product/statistics-engineers-scientists-navidi/M9781259717604.affordability.html#buying-options) starting at $55. 
+Electronic copies allow you to easily share content with other Zoom attendees, while physical copies give your eyes and body a break from the computer screen.
+Either option is fine.
+We won't be using McGraw Hill Connect.
 
 __Computer and Internet Access:__
 You'll need a computer or tablet with reliable internet to attend course meetings and office hours through Zoom video.
