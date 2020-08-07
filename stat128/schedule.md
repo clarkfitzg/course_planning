@@ -24,7 +24,9 @@ List of topics by week
 14. December 7
 
 
-    - Installation
+## Fundamentals
+
+    - installation
         - difference between R and Rstudio
         - basic plots, for example, `hist()`
     - REPL
@@ -32,16 +34,64 @@ List of topics by week
         - evaluating expressions
         - reading error messages
         - getting help
+    - Rmarkdown
+        - markdown syntax
+        - running code blocks
+        - HTML output
+    - summarizing univariate data
+        - common statistics, range
+    - summarizing Univariate Data
     - scripts
         - saving scripts
         - comments
         - running entire scripts
+    - directories
+        - motivation
+        - tree hierarchy
     - variables
         - assignment
         - workspace
-        - search paths?
     - types
+        - statistical data types vs programming types
         - type hierarchy
         - vectors
         - Special values: NA, Inf, Nan
+    - strings
+    - dates
+    - floating points
+    - filtering
+
+## Applications
+
+    - ggplot2
+    - statistical learning
+        - overview
+        - formula interface
+    - Shiny 1
+    - Shiny 2
+    - Shiny 3
+
+## Programming
+
     - classes
+    - debugging
+    - search paths
+    - recursion
+
+
+Ideas for assignments
+
+1. Basic EDA
+2. Plotting 1
+2. Plotting 2
+2. Simulation - robust statistics?
+3. Messy Data
+3. Categorical Data
+3. Slicing
+4. Shiny 1
+4. Shiny 2
+3. Stat learning - prediction
+3. Stat learning - comparing models
+4. Programming, Testing
+4. Programming, Recursion
+4. Programming, Debugging, error handling
