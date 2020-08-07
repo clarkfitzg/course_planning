@@ -130,7 +130,6 @@ You may attend either section, as I plan to cover the same content in each lectu
 
 __Attendance:__
 Class is where we'll cover the core material and do practice problems and other interactive activities, so plan on attending.
-I do plan to record class meetings and make them available for you if you happen to miss one.
 Experience shows that students perform better when they attend class, even online.
 
 __Studying:__
@@ -138,6 +137,13 @@ Expect to spend approximately 8 hours on activities outside of class for every 4
 Some weeks will require more, some less.
 You may find yourself spending more time if you need to review prerequisite math concepts, or you're working hard to earn a good grade.
 That's OK!
+
+__Recording:__
+I plan to record class meetings and make them available if you need to miss class for any reason.
+Zoom recordings will be available through Canvas for current students in this course for this semester only, and not to the general public.
+Do not make personal recordings of class meetings, or allow anyone not in this course to access course video recordings.
+This policy means that students can have the same expectation of privacy in a virtual classroom as they have in a physical classroom.
+Zoom breakout rooms are not recorded.
 
 
 ## Writing Component
