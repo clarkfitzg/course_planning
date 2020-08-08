@@ -63,6 +63,10 @@ List of topics by week
 
 ## Applications
 
+    - data.table
+    - tidyverse
+        - I'm going to take the position that I want students to see the different options out there, and they can use whatever they like best.
+    - dplyr
     - ggplot2
     - statistical learning
         - overview
@@ -95,3 +99,9 @@ Ideas for assignments
 4. Programming, Testing
 4. Programming, Recursion
 4. Programming, Debugging, error handling
+5. Base R, tidyverse, data.table, debate
+
+
+## Resources
+
+1. [fasteR](https://github.com/matloff/fasteR), an introduction to R by Norm Matloff
