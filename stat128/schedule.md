@@ -12,7 +12,7 @@ All the assignments should include some question like, what's one surprising thi
 
 List of topics by week
 
-1. August 31
+1. August 31 __introduction__
     - Intro to R
         - Design goals
         - pros and cons
@@ -28,10 +28,11 @@ List of topics by week
         - assignment
         - workspace
     - Rmarkdown
+        - package installation
         - markdown syntax
         - running code blocks
         - HTML output
-2. September 7
+2. September 7 __data and functions__
     - Monday, September 7th is Labor Day Holiday
     - summarizing univariate data
         - standard statistics, range, median, mean, etc.
@@ -39,7 +40,7 @@ List of topics by week
         - histograms and bin width
     - intro writing functions
         - plotting mathematical functions, simple examples like polynomials
-3. September 14
+3. September 14 __data types__
     - data frames
         - selecting columns
         - selecting rows
@@ -52,69 +53,70 @@ List of topics by week
         - strings
         - dates
         - floating points
-4. September 21
+4. September 21 __plots and reporting__
     - producing data analysis reports for an audience
-    - ggplot2 1
-    - ggplot2 2
-5. September 28
+        - general viz principles
+    - ggplot2
+    - ggplot2
+5. September 28 __designing functions__
     - planning and designing functions
     - debugging 1
     - apply family of functions
-6. October 5
+6. October 5 __popular data packages__
+    I'm exposing students to what's out there, and they can use whatever they like best.
     - data.table
     - tidyverse
-        - I'm going to take the position that I want students to see the different options out there, and they can use whatever they like best.
     - dplyr
-6. October 12
+6. October 12 __programming__
     - conditional statements
     - iteration
     - data science career panel
-7. October 19
-8. October 26
-9. November 2
-    - table tools debate
-10. November 9
-    - Wednesday, November 11th is Veteran's Day Holiday
-11. November 16
-12. November 23
-    - Friday, November 27th is Thanksgiving Holiday
-13. November 30
-14. December 7
-
-    - Shiny 1
-    - Shiny 2
-    - Shiny 3
-
-
-## Fundamentals
-
-    - error handling
-    - scripting
-        - saving scripts
-        - comments (often the "why" is more important than the "what")
-        - running entire scripts
-    - directories, file manipulation, and system administration
-        - motivation
-        - tree hierarchy
-
-
-## Applications
-
+7. October 19 __statistical learning applications__
     - statistical learning
         - overview
         - formula interface
     - decision trees
+    - another ML topic
+8. October 26 __utility scripting__
+    - scripting
+        - saving scripts
+        - comments (often the "why" is more important than the "what")
+        - running entire scripts
+    - error handling
+    - directories, file manipulation, and system administration
+        - motivation
+        - tree hierarchy
+9. November 2 __nested data__
+    - lists
+    - environments, search paths
+    - table tools debate
+10. November 9 __how functions work__
+    - functions in detail
+        - lazy evaluation
+    - debugging 2
+    - Wednesday, November 11th is Veteran's Day Holiday
+11. November 16 __Shiny dashboards__
+    - General dashboard principles
+        - Intro to Shiny
+    - Shiny 2
+    - Shiny 3
+12. November 23 __object oriented programming__
+    - object oriented programming
+    - object oriented programming 2
+    - Friday, November 27th is Thanksgiving Holiday
+14. November 30 __high performance__
+    - profiling
+    - parallel programming?
+    - C interfaces?
+13. December 7 __Application TBD__
+    Some possible options: bootstrap, more ML applications, metaprogramming, testing and software engineering, matrix methods, big data.
+    We can go deeper into any of the topics from earlier in the semester.
+    Students can vote and pick what they find most interesting.
+
 
 ## Programming
 
-    - debugging 2
-    - classes
-    - search paths
-    - functions in detail
-        - lazy evaluation
     - recursion
-    - object oriented programming
-    - profiling
 
 
 Ideas for assignments
