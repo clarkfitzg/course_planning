@@ -7,34 +7,15 @@ The intent of this course is to provide students with the software skills needed
 Idea: Learn to program through simple experiments.
 Lectures are going to be very interactive.
 
+Curiousity is an essential skill of a data scientist to develop.
+All the assignments should include some question like, what's one surprising thing you noticed in this data set?
+
 List of topics by week
 
 1. August 31
-2. September 7
-    - Monday, September 7th is Labor Day Holiday
-3. September 14
-4. September 21
-5. September 28
-6. October 12
-7. October 19
-8. October 26
-9. November 2.
-10. November 9
-    - Wednesday, November 11th is Veteran's Day Holiday
-11. November 16
-12. November 23
-13. November 30
-14. December 7
-
-
-## Fundamentals
-
-14 days = 5 weeks
-
     - Intro to R
         - Design goals
         - pros and cons
-    - installation
         - difference between R and Rstudio
         - basic plots, for example, `hist()`
         - assignment: install R, open the prompt, enter `getwd()` and paste the result.
@@ -43,15 +24,71 @@ List of topics by week
         - evaluating expressions
         - reading error messages
         - getting help
+        - variables
+        - assignment
+        - workspace
     - Rmarkdown
         - markdown syntax
         - running code blocks
         - HTML output
+2. September 7
+    - Monday, September 7th is Labor Day Holiday
     - summarizing univariate data
-        - common statistics, range
+        - standard statistics, range, median, mean, etc.
+        - filtering based on condition
+        - histograms and bin width
     - intro writing functions
-        - plotting mathematical functions
+        - plotting mathematical functions, simple examples like polynomials
+3. September 14
+    - data frames
+        - selecting columns
+        - selecting rows
+    - types 1
+        - statistical data types vs programming types
+        - type hierarchy
+        - vectors
+        - Special values: NA, Inf, Nan
+    - types 2
+        - strings
+        - dates
+        - floating points
+4. September 21
+    - producing data analysis reports for an audience
+    - ggplot2 1
+    - ggplot2 2
+5. September 28
+    - planning and designing functions
     - debugging 1
+    - apply family of functions
+6. October 5
+    - data.table
+    - tidyverse
+        - I'm going to take the position that I want students to see the different options out there, and they can use whatever they like best.
+    - dplyr
+6. October 12
+    - conditional statements
+    - iteration
+    - data science career panel
+7. October 19
+8. October 26
+9. November 2
+    - table tools debate
+10. November 9
+    - Wednesday, November 11th is Veteran's Day Holiday
+11. November 16
+12. November 23
+    - Friday, November 27th is Thanksgiving Holiday
+13. November 30
+14. December 7
+
+    - Shiny 1
+    - Shiny 2
+    - Shiny 3
+
+
+## Fundamentals
+
+    - error handling
     - scripting
         - saving scripts
         - comments (often the "why" is more important than the "what")
@@ -59,46 +96,18 @@ List of topics by week
     - directories, file manipulation, and system administration
         - motivation
         - tree hierarchy
-    - variables
-        - assignment
-        - workspace
-    - types
-        - statistical data types vs programming types
-        - type hierarchy
-        - vectors
-        - Special values: NA, Inf, Nan
-    - strings
-    - dates
-    - floating points
-    - filtering
 
 
 ## Applications
 
-    - data.table
-    - tidyverse
-        - I'm going to take the position that I want students to see the different options out there, and they can use whatever they like best.
-    - dplyr
-    - producing data analysis reports for an audience
-    - ggplot2 1
-    - ggplot2 2
     - statistical learning
         - overview
         - formula interface
     - decision trees
-    - Shiny 1
-    - Shiny 2
-    - Shiny 3
-
 
 ## Programming
 
-    - planning and designing functions
-    - apply family of functions
-    - conditional statements
-    - iteration
     - debugging 2
-    - error handling
     - classes
     - search paths
     - functions in detail

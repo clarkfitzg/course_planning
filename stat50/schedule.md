@@ -106,8 +106,9 @@ For all the named distributions the content is going to be somewhat similar, to 
 12. November 23
     - 4.4 Hypergeometric distribution
     - 4.4 Negative Binomial distribution
-    - 4.5 Normal distribution
+    - Friday, November 27th is Thanksgiving Holiday
 13. November 30
+    - 4.5 Normal distribution
     - 4.7 Exponential distribution
     - 4.8 Gamma distribution
     - 4.11 Central Limit Theorem
