@@ -4,6 +4,9 @@ Students will learn to apply computer methods to solve problems selected from th
 The intent of this course is to provide students with the software skills needed for statistical work in industry or academia.
 3 units.
 
+Idea: Learn to program through simple experiments.
+Lectures are going to be very interactive.
+
 List of topics by week
 
 1. August 31
@@ -26,9 +29,15 @@ List of topics by week
 
 ## Fundamentals
 
+14 days = 5 weeks
+
+    - Intro to R
+        - Design goals
+        - pros and cons
     - installation
         - difference between R and Rstudio
         - basic plots, for example, `hist()`
+        - assignment: install R, open the prompt, enter `getwd()` and paste the result.
     - REPL
         - calling functions
         - evaluating expressions
@@ -40,12 +49,14 @@ List of topics by week
         - HTML output
     - summarizing univariate data
         - common statistics, range
-    - summarizing Univariate Data
-    - scripts
+    - intro writing functions
+        - plotting mathematical functions
+    - debugging 1
+    - scripting
         - saving scripts
-        - comments
+        - comments (often the "why" is more important than the "what")
         - running entire scripts
-    - directories
+    - directories, file manipulation, and system administration
         - motivation
         - tree hierarchy
     - variables
@@ -61,26 +72,40 @@ List of topics by week
     - floating points
     - filtering
 
+
 ## Applications
 
     - data.table
     - tidyverse
         - I'm going to take the position that I want students to see the different options out there, and they can use whatever they like best.
     - dplyr
-    - ggplot2
+    - producing data analysis reports for an audience
+    - ggplot2 1
+    - ggplot2 2
     - statistical learning
         - overview
         - formula interface
+    - decision trees
     - Shiny 1
     - Shiny 2
     - Shiny 3
 
+
 ## Programming
 
+    - planning and designing functions
+    - apply family of functions
+    - conditional statements
+    - iteration
+    - debugging 2
+    - error handling
     - classes
-    - debugging
     - search paths
+    - functions in detail
+        - lazy evaluation
     - recursion
+    - object oriented programming
+    - profiling
 
 
 Ideas for assignments
@@ -105,3 +130,4 @@ Ideas for assignments
 ## Resources
 
 1. [fasteR](https://github.com/matloff/fasteR), an introduction to R by Norm Matloff
+2. [Advanced R]
