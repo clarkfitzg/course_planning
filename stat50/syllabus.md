@@ -7,7 +7,7 @@ __Term:__ Fall 2020
 __Instructor:__ Dr. Clark Fitzgerald [About me](http://webpages.csus.edu/fitzgerald/about/)
 
 __Email:__ 
-For questions that aren't personal, please use [Canvas chat](https://csus.instructure.com/courses/67308/external_tools/2780) or [Canvas discussions](https://csus.instructure.com/courses/67308/discussion_topics) so that other students can see and respond to your questions.
+For questions that aren't personal, please use [Canvas discussions](https://csus.instructure.com/courses/67308/discussion_topics) or [Canvas chat](https://csus.instructure.com/courses/67308/external_tools/2780) so that other students can see and respond to your questions.
 For personal communication, you can contact me at <fitzgerald@csus.edu> or through Canvas messages.
 Please allow up to two business days to respond.
 
@@ -67,10 +67,11 @@ For example, I can request a [long term laptop checkout](https://www.csus.edu/in
 Percentage  |   Category    |   Description & Purpose     |   Collaboration Policy
 ----------  |   --------    |   -----------     |   ----------------------
 5           | Practice Problems |   These are questions where the answer is available at the back of the book, so that you can (and should!) check your work make sure you're on the right track. I won't grade these; if you turn something in you'll get full points. I may look over the submissions occasionally to see how you're doing. The purpose is to give you practice with standard calculations and concepts, and to encourage regular review.  |   Collaboration is allowed.
-30          | Homework      |   These problem will challenge you more than the practice problems. I will grade a subset of these problems to provide you with feedback on your work, and allow you an opportunity to resubmit to correct any mistakes.    |   Talking about problems is allowed, but you must mention who you work with.
-15          | Participation |   This category includes setting up online profiles, Canvas discussions, making review videos, and anything that doesn't fit cleanly somewhere else. The purpose is to make our online class feel more like a community by having some interaction with each other.    |   Collaboration is allowed.
+25          | Homework      |   These problem will challenge you more than the practice problems. I will grade a subset of these problems to provide you with feedback on your work, and allow you an opportunity to resubmit to correct any mistakes.    |   Talking about problems is allowed, but you must state who you work with.
+10          | Interview     |   Plan to meet with me at least once for a brief individual Zoom interview. I will announce the details, but plan on explaining both high level ideas in the course, and some aspect of your individual course work submissions.  This keeps you accountable for everything you turn in.     |   You can talk to me.
+15          | Participation |   This category includes setting up online profiles, Canvas discussions, making review videos, and anything that doesn't fit cleanly somewhere else. The purpose is to think about statistics at a higher level than solving problems, and to make our online class feel more like a community by having some interaction with each other.    |   Collaboration is allowed.
 20          | Midterms      |   Midterms will be similar to the homework, with a format that prepares you for the final. You will have an opportunity to resubmit the written parts to correct any mistakes. |   Do not collaborate.
-30          | Final or Oral |   This is a standard final exam to assess how well you've learned the class concepts. It will be due at the end of the semester, which means you will NOT have an opportunity to resubmit or turn it in late. If there is any question on whether you followed the collaboration policy in this course, then I may require you to take a one on one oral exam through a Zoom video call, instead of a written final. The oral exam will be no more difficult than the written exam. |   Do not collaborate.
+25          | Final         |   This is a standard final exam to assess how well you've learned the class concepts. It will be due at the end of the semester, which means you will NOT have an opportunity to resubmit it or turn it in late. |   Do not collaborate.
 
 The goal of this grading scheme is to minimize the pressure on you, the student.
 Fall 2020 is highly unusual with the switch to online classes amidst the global COVID-19 pandemic, and I've adapted by changing the course in the following ways:
@@ -78,9 +79,10 @@ Fall 2020 is highly unusual with the switch to online classes amidst the global 
 1. Less weight on high stakes assessments
 1. Fewer timed assessments
 2. More flexibility around due dates and resubmissions
+3. Adding an interview component
 
 I'm not saying the course will be easy for you.
-To succeed, you'll need to demonstrate that you understand the concepts, which will require many hours of concentrated studying.
+To succeed, you'll need to demonstrate that you understand the concepts, which will require many hours of focused studying.
 
 __Late Assignments:__
 Due dates keep you on track; they benefit you!
@@ -122,7 +124,7 @@ It's your responsibility to know and adhere to the University Policies regarding
 - https://www.csus.edu/student-affairs/student-conduct/academic-dishonesty.html
 - https://www.csus.edu/umanual/student/stu-100.htm
 
-I will fully prosecute violations of the academic 
+I will fully prosecute violations of these policies.
 If you have any question about what's appropriate, please ask.
 
 
