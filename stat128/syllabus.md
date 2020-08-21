@@ -63,21 +63,28 @@ Possibilities
     The [exercises in The Book of R](https://learning.oreilly.com/library/view/the-book-of/9781492017486/xhtml/ch02.xhtml#ch02lev2sec19) look useful, and I know Advanced R has exercises.
 - Quizzes: automatically graded.
     Could have questions of the form, "suppose you have two vectors x and y. Write the function call to display a scatter plot of x and y"
+    The results of these quizzes would be very useful for me- shows me what they understand.
+    If they take out their notes and briefly look at them- that's what I'm looking for.
 - Final project: culmination of ideas in class. Probably a Shiny dashboard, since we will spend plenty of time on that in the end.
 - Midterms: worth doing one to prepare students for the format of the final.
 - Final: probably not worth much
+- Video data analysis presentations
+- Video reviews: could do on key concepts before midterm and final
+
+My biggest goal is probably to get them comfortable writing functions.
+So that's probably what the exercises and assessment should focus on.
 
 Weekly Schedule
 
 Day         |   Task
 ---         |   ----
 Monday      |   Class
-Tuesday     |
+Tuesday     |   short exercise?
 Wednesday   |   Class
-Thursday    |
+Thursday    |   short exercise?
 Friday      |   Class
 Saturday    |
-Sunday      |
+Sunday      |   Data analysis assignment
 
 
 Percentage  |   Category    |   Description & Purpose     |   Collaboration Policy
