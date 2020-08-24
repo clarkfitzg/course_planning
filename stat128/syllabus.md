@@ -59,19 +59,6 @@ For example, I can request a [long term laptop checkout](https://www.csus.edu/in
 
 ## Grading
 
-### Weekly Schedule
-
-Day         |   Task
----         |   ----
-Monday      |   Class
-Tuesday     |   something small due
-Wednesday   |   Class
-Thursday    |   something small due
-Friday      |   Class
-Saturday    |
-Sunday      |   something large due
-
-
 Percentage  |   Category    |   Description & Purpose     |   Collaboration Policy
 ----------  |   --------    |   -----------     |   ----------------------
 5           |   Review      |   Short assignments. Some will be automatically graded, and some will be ungraded. I'll provide solutions so you can check your answers. These have several purposes: they give you practice with standard calculations and concepts, show me your understanding of the lecture material, and encourage regular review. The two lowest scores will be dropped. |   Collaboration is allowed.
@@ -127,17 +114,16 @@ If you have any question about what's appropriate, please ask.
 
 ## Class Meetings
 
-Class will meet synchronously through Zoom on MWF, one section at 8 AM and one section at 10 AM.
-You may attend either section, as I plan to cover the same content in each lecture.
+Class will meet synchronously through Zoom, unless otherwise announced.
 
 __Attendance:__
 Class is where we'll cover the core material and do practice problems and other interactive activities, so plan on attending.
 Experience shows that students perform better when they attend class, even online.
 
 __Studying:__
-Expect to spend approximately 8 hours on activities outside of class for every 4 hours in class.
+Expect to spend approximately 2 hours on activities outside of class for every 1 hour in class.
 Some weeks will require more, some less.
-You may find yourself spending more time if you need to review prerequisite math concepts, or you're working hard to earn a good grade.
+Depending on your background, programming might take longer, or maybe you're working extra hard to earn a good grade.
 That's OK!
 
 __Recording:__
@@ -146,19 +132,3 @@ Zoom recordings will be available through Canvas for current students in this co
 Do not make personal recordings of class meetings, or allow anyone not in this course to access course video recordings.
 This policy means that students can have the same expectation of privacy in a virtual classroom as they have in a physical classroom.
 Zoom breakout rooms are not recorded.
-
-
-## Writing Component
-
-STAT 50 is an area B4 GE course and has a writing component. To satisfy the writing requirement graded
-assignments involving writing and understanding of complex technical prose, interpretation of theoretical
-ideas, and the use of mathematical ideas will be part of the course.
-
-
-## Area B-4 Mathematical Concepts and Quantitative Reasoning Student Learning Outcomes
-
-Students will be able to:
-
-1. Solve problems by thinking logically, making conjectures, and constructing valid mathematical arguments.
-2. Make valid inferences from numerical, graphical and symbolic information.
-3. Apply mathematical reasoning to both abstract and applied problems, and to both scientific and non-scientific problems.
