@@ -17,6 +17,7 @@ __Course Meetings:__
 MWF, 12-1pm via Zoom
 
 __Office Hours:__
+after class, or by appointment
 
 __Drops:__
 [College Drop Policy](https://www.csus.edu/college/natural-sciences-mathematics/mathematics-statistics/_internal/docs/drop-policy.pdf)
@@ -33,6 +34,12 @@ The intent of this course is to provide students with the software skills needed
 ## Course Materials
 
 __Textbook:__
+All textbooks and course materials will be freely available online to Sac State students, either through public websites, or with electronic access from the library.
+For example, follow the link to [The Art of R Programming](https://csus-primo.hosted.exlibrisgroup.com/permalink/f/tu2a5d/01CALS_ALMA51438431320002901), click on "Safari Books Online", enter your CSUS email, and you should have online access.
+
+__Software:__
+Install R and Rstudio, both free.
+We'll use various other software from CRAN.
 
 __Computer and Internet Access:__
 You'll need a computer or tablet with reliable internet to attend course meetings and office hours through Zoom video.
@@ -41,12 +48,8 @@ I highly recommend you turn on your video so that you can have better interactio
 Headsets and noise cancelling headphones can be very useful if you live with other people.
 
 __Other Technologies:__
-We'll use technology for a couple other activities besides class meetings.
-We will:
-
-- Make videos, so you'll need access to a smartphone, webcam, or at least a microphone.
-    Video editing software is nice, but not essential.
-- Scan and upload your homework and exam submissions, so you'll need access to a smartphone, tablet, or a scanner.
+We will also make videos, so you'll need access to a smartphone, webcam, or at least a microphone.
+Video editing software is nice, but not essential.
 
 __Inclusive Access:__
 If you have trouble obtaining any of these materials, please contact me ASAP so we can work out alternatives.
@@ -56,56 +59,27 @@ For example, I can request a [long term laptop checkout](https://www.csus.edu/in
 
 ## Grading
 
-Possibilities
-
-- Assignments: actual data analysis, produce a nice written report. Takes a few hours.
-- Exercises: short programming assignments to reinforce concepts from class.
-    The [exercises in The Book of R](https://learning.oreilly.com/library/view/the-book-of/9781492017486/xhtml/ch02.xhtml#ch02lev2sec19) look useful, and I know Advanced R has exercises.
-- Quizzes: automatically graded.
-    Could have questions of the form, "suppose you have two vectors x and y. Write the function call to display a scatter plot of x and y"
-    The results of these quizzes would be very useful for me- shows me what they understand.
-    If they take out their notes and briefly look at them- that's what I'm looking for.
-- Final project: culmination of ideas in class. Probably a Shiny dashboard, since we will spend plenty of time on that in the end.
-- Midterms: worth doing one to prepare students for the format of the final.
-- Final: probably not worth much
-- Video data analysis presentations
-- Video reviews: could do on key concepts before midterm and final
-
-My biggest goal is probably to get them comfortable writing functions.
-So that's probably what the exercises and assessment should focus on.
-
-Weekly Schedule
+### Weekly Schedule
 
 Day         |   Task
 ---         |   ----
 Monday      |   Class
-Tuesday     |   short exercise?
+Tuesday     |   something small due
 Wednesday   |   Class
-Thursday    |   short exercise?
+Thursday    |   something small due
 Friday      |   Class
 Saturday    |
-Sunday      |   Data analysis assignment
+Sunday      |   something large due
 
 
 Percentage  |   Category    |   Description & Purpose     |   Collaboration Policy
 ----------  |   --------    |   -----------     |   ----------------------
-5           | Practice Problems |   These are questions where the answer is available at the back of the book, so that you can (and should!) check your work make sure you're on the right track. I won't grade these; if you turn something in you'll get full points. I may look over the submissions occasionally to see how you're doing. The purpose is to give you practice with standard calculations and concepts, and to encourage regular review.  |   Collaboration is allowed.
-25          | Homework      |   These problem will challenge you more than the practice problems. I will grade a subset of these problems to provide you with feedback on your work, and allow you an opportunity to resubmit to correct any mistakes.    |   Talking about problems is allowed, but you must state who you work with.
-10          | Interview     |   Plan to meet with me at least once for a brief individual Zoom interview. I will announce the details, but plan on explaining both high level ideas in the course, and any work that you've turned in.  This keeps you accountable for everything you turn in.     |   You can talk to me.
-15          | Participation |   This category includes setting up online profiles, Canvas discussions, making review videos, and anything that doesn't fit cleanly somewhere else. The purpose is to think about statistics at a higher level than solving problems, and to make our online class feel more like a community by having some interaction with each other.    |   Collaboration is allowed.
-20          | Midterms      |   Midterms will be similar to the homework, with a format that prepares you for the final. You will have an opportunity to resubmit the written parts to correct any mistakes. |   Do not collaborate.
-25          | Final         |   This is a standard final exam to assess how well you've learned the class concepts. It will be due at the end of the semester, which means you will NOT have an opportunity to resubmit it or turn it in late. |   Do not collaborate.
-
-The goal of this grading scheme is to minimize the pressure on you, the student.
-Fall 2020 is highly unusual with the switch to online classes amidst the global COVID-19 pandemic, and I've adapted by changing the course in the following ways:
-
-1. Less weight on high stakes assessments
-1. Fewer timed assessments
-2. More flexibility around due dates and resubmissions
-3. Adding an interview component
-
-I'm not saying the course will be easy for you.
-To succeed, you'll need to demonstrate that you understand the concepts, which will require many hours of focused studying.
+5           |   Review      |   Short assignments. Some will be automatically graded, and some will be ungraded. I'll provide solutions so you can check your answers. These have several purposes: they give you practice with standard calculations and concepts, show me your understanding of the lecture material, and encourage regular review. The two lowest scores will be dropped. |   Collaboration is allowed.
+45          | Homework      |   The core course component where you will practice data analysis and programming. I will grade a subset of the prompts in the assignment and provide you with feedback. The lowest score will be dropped. |   Talking about problems is allowed, but you must state who you work with.
+15          | Participation |   Setting up online profiles, Canvas discussions, making review videos, and anything that doesn't fit cleanly somewhere else. The purpose is to provide experience producing different media, and to make our online class feel more like a community by having some interaction with each other.    |   Collaboration is allowed.
+10          |   Midterm      |   Motivates the video review assignment. 😁 This will give me some idea of your understanding, and what we need to spend more time on. |   Do not collaborate.
+15          | Final Project        |   Culminating project that allows you to do something more involved and open ended than the homeworks. Treat this as an opportunity to show off your skills, and make something that you can show to an employer or graduate school admissions officer.  |   To be determined
+10          | Final Exam        |   This is a standard comprehensive final exam to assess how well you've learned the class concepts. |   Do not collaborate.
 
 __Late Assignments:__
 Due dates keep you on track; they benefit you!
