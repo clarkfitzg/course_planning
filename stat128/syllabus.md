@@ -7,7 +7,7 @@ __Term:__ Fall 2020
 __Instructor:__ Dr. Clark Fitzgerald [About me](http://webpages.csus.edu/fitzgerald/about/)
 
 __Email:__ 
-For questions that aren't personal, please use [Canvas discussions]() or [Canvas chat]() so that other students can see and respond to your questions.
+For questions that aren't personal, please use [Canvas discussions](https://csus.instructure.com/courses/67306/discussion_topics) or [Canvas chat](https://csus.instructure.com/courses/67306/external_tools/2780) so that other students can see and respond to your questions.
 For personal communication, you can contact me at <fitzgerald@csus.edu> or through Canvas messages.
 Please allow up to two business days to respond.
 
