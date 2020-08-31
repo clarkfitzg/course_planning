@@ -13,6 +13,6 @@ In the class, students will learn standard ways to program in R for data that fi
 If the student has a modest computer with limited memory, and the data and intermediate results do not fit in memory, then their programs may not run.
 Similarly, a student with a single personal computer might not be able to wait 20 hours for a program to run, because they need to use that same computer for other classes.
 
-An XSEDE educational allocation will make this class more equitable, because all students will have access to a common, high quality resource for the computationally intensive project.
 In the mathematics and statistics department, we do not have access to compute servers.
+An XSEDE educational allocation will make this class more equitable, because all students will have access to a common, high quality resource for the computationally intensive project.
 Equitable access is particularly important at Sacramento State, where many students come from low income families.
