@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <title>hw-means-histograms</title>
+  <style>
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    span.underline{text-decoration: underline;}
+    div.column{display: inline-block; vertical-align: top; width: 50%;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    ul.task-list{list-style: none;}
+  </style>
+  <!--[if lt IE 9]>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
+  <![endif]-->
+</head>
+<body>
+<p>STAT 50 - Means and histograms</p>
+<h2 id="section">1</h2>
+<p>Textbook, page 24, question 14.</p>
+<h2 id="section-1">2</h2>
+<ol type="a">
+<li>In the 2016 US presidential election, Donald Trump ran against Hillary Clinton. Construct a frequency histogram of the percentage votes for Trump <a href="https://en.wikipedia.org/wiki/2016_United_States_presidential_election_in_California#Results_by_county">per California county according to the Wikipedia page</a>. For example, in Sacramento County, 33.93% of the votes were for Trump. Use 0, 10, 20, …, 90, 100 as the break points. There are 58 counties in California.</li>
+</ol>
+<p>Hint: Sort the table based on votes for Trump, then count and construct a frequency table.</p>
+<ol start="2" type="a">
+<li><p>Which counties were at the far ends of this distribution? Did you expect this?</p></li>
+<li><p>California historically votes for democratic presidents. What does this histogram tell you about the distribution of Trump voters across counties? Explain.</p></li>
+</ol>
+<h2 id="section-2">3</h2>
+<ol type="a">
+<li>Come up with a single list of numbers that will make <strong>both</strong> of the following histograms:</li>
+</ol>
+<p>&lt;–!</p>
+<p>x = c(0.5, 1.8, 2.5, 3.1, 4.5) par(mfrow = c(1, 2)) png(“twohistograms.png”) hist(x, breaks = 0:5) hist(x, breaks = seq(from = 0, to = 5, length.out = 4)) dev.off()</p>
+<p>–&gt;</p>
+<ol start="2" type="a">
+<li><p>What can you conclude about histograms?</p></li>
+<li><p>No points, extra challenge: Describe the set of all such numbers that will produce these two histograms.</p></li>
+</ol>
+</body>
+</html>
